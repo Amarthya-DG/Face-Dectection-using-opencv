@@ -6,5 +6,5 @@ dependency:
 -numpy
 -matplotlib
 -opencv
-download the pre trained  Haar Cascades  file 
+
 

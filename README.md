@@ -1,6 +1,6 @@
 # Face-Dectection-using-opencv 
 detect the face in the image and video
-dependences:
+dependency:
 -numpy
 -matplotlib
 -opencv
